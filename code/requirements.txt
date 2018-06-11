@@ -6,3 +6,6 @@ gym
 jupyter
 cozmo
 numpy
+flask
+flask-socketio
+pillow
